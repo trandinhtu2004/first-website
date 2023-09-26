@@ -1,0 +1,65 @@
+body{
+    background-color: bisque;
+    max-width: 960px;
+    margin: auto;
+}
+body{
+    background-image: url(https://staticg.sportskeeda.com/editor/2021/12/681ff-16408771755031-1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    max-width: 950px;
+    text-align: center;
+    margin: auto;
+    color: rgb(244, 231, 86);
+}
+.custom-button {
+    background-color: #ad337e;
+    color: white;
+    padding: 20px 30px; /* Điều chỉnh kích thước nút bằng cách sử dụng thuộc tính padding */
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.5s, color 0.5s;
+}
+.custom-button:hover {
+    background-color: #ff5733; /* Màu nền khi di chuột qua */
+    color: white; /* Màu chữ khi di chuột qua */
+  }
+
+h2{
+    text-align: center;
+    margin: auto;
+}
+h3{
+    max-width: 950px;
+    text-align: center;
+    margin: auto;
+}
+p{
+    text-align: center;
+    margin: auto;
+    color: blueviolet;
+}
+a{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
+text {
+    text-align: center;
+}
+.first-title {
+    color: red;
+}
+
+.center-link {
+    text-align: center; /* Căn giữa the nội dung của đường liên kết theo chiều ngang */
+    display: block; /* Biến đường liên kết thành một khối (block-level element) để căn giữa */
+  }
